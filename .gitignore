@@ -3,6 +3,8 @@
 *.ko
 *.obj
 *.elf
+*.gba
+build/*
 
 # Precompiled Headers
 *.gch
